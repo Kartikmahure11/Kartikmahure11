@@ -16,7 +16,7 @@
 
 💬 Ask me about **Java, MySql, HTML5 ,CSS3... or anything [here](https://github.com/Kartikmahure11?tab=repositories)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **एक मज़ेदार तथ्य: गिरगिट के आँख की शपथ में भ्रम फैलाया जा सकता है क्योंकि यह हर दो-तीन मिनट में रंग बदल सकता है।**
 
  </div>
  
