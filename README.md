@@ -1,5 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa7gqm5xwayq7P87vUNdwXUvOMHcSH-GlWcGZtz7flpg&s)](https://damdev)
-
+ 
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
