@@ -1,5 +1,5 @@
  
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdMwjKmORWHhsz-uR0S096FLuEjzXohFlOUQ6Ab5I0DQ&s" alt="MasterHead" height="200" width="1000">
+ <img src="https://wallpapers.com/images/high/just-go-4k-ultra-hd-motivational-c3nzk1quumfyzfin.webp" alt="MasterHead" height="250" width="1000">
 
 
 
